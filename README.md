@@ -1,4 +1,4 @@
-# Resolv — Business Intelligence & Automation Case Study
+# Resolv - Business Intelligence & Automation Case Study
 
 Portfolio case study describing analytical work with operational data, reporting, integrations, and workflow automation at Resolv.
 
